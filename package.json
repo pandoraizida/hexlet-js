@@ -8,5 +8,8 @@
   },
   "author": "e.kochetova",
   "license": "ISC",
-  "description": ""
+  "description": "",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
 }
